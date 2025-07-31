@@ -1,0 +1,8 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\bin\Debug\Cyberarms.Agents.TerminalServer.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\bin\Debug\Cyberarms.Agents.TerminalServer.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\obj\Debug\Cyberarms.Agents.TerminalServer.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\obj\Debug\Cyberarms.Agents.TerminalServer.Resource.resources
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\obj\Debug\Cyberarms.Agents.TerminalServer.csproj.GenerateResource.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\obj\Debug\Cyberarms.Agents.TerminalServer.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\obj\Debug\Cyberarms.Agents.TerminalServer.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.TerminalServer\obj\Debug\Cyberarms.Agents.TerminalServer.pdb

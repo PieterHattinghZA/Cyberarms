@@ -1,0 +1,6 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.Bind9\bin\Debug\Cyberarms.Agents.Bind9.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.Bind9\bin\Debug\Cyberarms.Agents.Bind9.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.Bind9\obj\Debug\Cyberarms.Agents.Bind9.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.Bind9\obj\Debug\Cyberarms.Agents.Bind9.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.Bind9\obj\Debug\Cyberarms.Agents.Bind9.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.Bind9\obj\Debug\Cyberarms.Agents.Bind9.pdb

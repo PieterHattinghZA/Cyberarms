@@ -1,0 +1,11 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\bin\Debug\MailServerTest.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\bin\Debug\MailServerTest.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\bin\Debug\Cyberarms.Agents.MailServer.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\bin\Debug\Cyberarms.Agents.MailServer.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\obj\Debug\MailServerTest.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\obj\Debug\MailServerTest.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\obj\Debug\MailServ.E4CF2ED0.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\obj\Debug\MailServerTest.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\MailServerTest\obj\Debug\MailServerTest.pdb

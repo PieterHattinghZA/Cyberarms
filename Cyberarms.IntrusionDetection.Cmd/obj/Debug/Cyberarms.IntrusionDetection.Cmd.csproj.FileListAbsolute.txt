@@ -1,0 +1,17 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\CyberarmsIdsCmd.exe.config
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\CyberarmsIdsCmd.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\CyberarmsIdsCmd.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\Cyberarms.IntrusionDetection.Base.Plugins.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\DemoAgent.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\Cyberarms.IntrusionDetection.Base.Plugins.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\bin\Debug\DemoAgent.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\Cyberarms.IntrusionDetection.Cmd.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\Interop.NETCONLib.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\Cyberarms.IntrusionDetection.Cmd.csproj.ResolveComReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\Cyberarms.IntrusionDetection.Cmd.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\Cyberarm.F0539D10.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\CyberarmsIdsCmd.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd\obj\Debug\CyberarmsIdsCmd.pdb

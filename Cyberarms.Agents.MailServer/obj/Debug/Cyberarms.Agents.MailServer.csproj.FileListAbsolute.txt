@@ -1,0 +1,9 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\bin\Debug\Cyberarms.Agents.MailServer.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\bin\Debug\Cyberarms.Agents.MailServer.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\obj\Debug\Cyberarms.Agents.MailServer.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\obj\Debug\Cyberarms.Agents.MailServer.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\obj\Debug\Cyberarm.6F985AC9.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\obj\Debug\Cyberarms.Agents.MailServer.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MailServer\obj\Debug\Cyberarms.Agents.MailServer.pdb

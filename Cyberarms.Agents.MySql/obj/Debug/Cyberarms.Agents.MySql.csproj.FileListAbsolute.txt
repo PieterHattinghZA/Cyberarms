@@ -1,0 +1,11 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\bin\Debug\Cyberarms.Agents.MySql.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\bin\Debug\Cyberarms.Agents.MySql.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarms.Agents.MySql.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarms.Agents.MySql.Resource.resources
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarms.Agents.MySql.csproj.GenerateResource.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarms.Agents.MySql.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarm.57988A09.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarms.Agents.MySql.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.MySql\obj\Debug\Cyberarms.Agents.MySql.pdb

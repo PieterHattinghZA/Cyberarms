@@ -1,0 +1,9 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\bin\Debug\DemoAgent.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\bin\Debug\DemoAgent.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\obj\Debug\DemoAgent.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\obj\Debug\DemoAgent.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\obj\Debug\DemoAgent.csproj.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\obj\Debug\DemoAgent.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\DemoAgent\obj\Debug\DemoAgent.pdb

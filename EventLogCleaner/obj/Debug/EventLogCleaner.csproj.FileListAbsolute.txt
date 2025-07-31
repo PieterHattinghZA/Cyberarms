@@ -1,0 +1,6 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\EventLogCleaner\bin\Debug\EventLogCleaner.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\EventLogCleaner\bin\Debug\EventLogCleaner.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\EventLogCleaner\obj\Debug\EventLogCleaner.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\EventLogCleaner\obj\Debug\EventLogCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\EventLogCleaner\obj\Debug\EventLogCleaner.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\EventLogCleaner\obj\Debug\EventLogCleaner.pdb

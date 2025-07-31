@@ -1,0 +1,11 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\bin\Debug\Cyberarms.Agents.FileMaker.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\bin\Debug\Cyberarms.Agents.FileMaker.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarms.Agents.FileMaker.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarms.Agents.FileMaker.FileMakerResource.resources
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarms.Agents.FileMaker.csproj.GenerateResource.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarms.Agents.FileMaker.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarm.36C692D5.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarms.Agents.FileMaker.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.Agents.FileMaker\obj\Debug\Cyberarms.Agents.FileMaker.pdb

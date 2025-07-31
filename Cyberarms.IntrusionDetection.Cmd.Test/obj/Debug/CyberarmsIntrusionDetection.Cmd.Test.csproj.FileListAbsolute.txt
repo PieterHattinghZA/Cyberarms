@@ -1,0 +1,15 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\CyberarmsPaladinCmd.Test.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\CyberarmsPaladinCmd.Test.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\CyberarmsIdsCmd.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\DemoAgent.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\CyberarmsIdsCmd.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\CyberarmsIdsCmd.exe.config
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\bin\Debug\DemoAgent.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\obj\Debug\CyberarmsIntrusionDetection.Cmd.Test.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\obj\Debug\CyberarmsIntrusionDetection.Cmd.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\obj\Debug\Cyberarm.787C036C.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\obj\Debug\CyberarmsPaladinCmd.Test.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Cmd.Test\obj\Debug\CyberarmsPaladinCmd.Test.pdb

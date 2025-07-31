@@ -1,0 +1,2 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IDDS.Management\obj\Debug\Cyberarms.IDDS.Management.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IDDS.Management\obj\Debug\Cyberarms.IDDS.Management.csproj.CoreCompileInputs.cache

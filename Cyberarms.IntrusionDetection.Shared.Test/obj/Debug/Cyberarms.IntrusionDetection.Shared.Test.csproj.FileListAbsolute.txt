@@ -1,0 +1,2 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Shared.Test\obj\Debug\Cyberarms.IntrusionDetection.Shared.Test.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.IntrusionDetection.Shared.Test\obj\Debug\Cyberarms.IntrusionDetection.Shared.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.WebSecurity\bin\Debug\Cyberarms.WebSecurity.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.WebSecurity\bin\Debug\Cyberarms.WebSecurity.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.WebSecurity\obj\Debug\Cyberarms.WebSecurity.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.WebSecurity\obj\Debug\Cyberarms.WebSecurity.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.WebSecurity\obj\Debug\Cyberarms.WebSecurity.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\Cyberarms.WebSecurity\obj\Debug\Cyberarms.WebSecurity.pdb

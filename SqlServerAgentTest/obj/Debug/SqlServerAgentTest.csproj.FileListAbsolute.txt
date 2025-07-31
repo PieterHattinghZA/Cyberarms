@@ -1,0 +1,11 @@
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\bin\Debug\SqlServerAgentTest.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\bin\Debug\SqlServerAgentTest.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\bin\Debug\Cyberarms.Agents.SqlServer.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\bin\Debug\Cyberarms.IntrusionDetection.Api.dll
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\bin\Debug\Cyberarms.Agents.SqlServer.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\bin\Debug\Cyberarms.IntrusionDetection.Api.pdb
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\obj\Debug\SqlServerAgentTest.csproj.AssemblyReference.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\obj\Debug\SqlServerAgentTest.csproj.CoreCompileInputs.cache
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\obj\Debug\SqlServe.FEB74B83.Up2Date
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\obj\Debug\SqlServerAgentTest.exe
+C:\Users\Pieter\OneDrive - About IT Group (Pty) Ltd\Documents\GitHub\Cyberarms\SqlServerAgentTest\obj\Debug\SqlServerAgentTest.pdb
